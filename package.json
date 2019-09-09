@@ -11,9 +11,11 @@
     "react": "16.8.6",
     "react-native": "0.60.5",
     "react-native-camera": "^3.3.3",
+    "react-native-gesture-handler": "^1.4.1",
     "react-native-image-picker": "^0.28.0",
     "react-native-qrcode-scanner": "^1.2.1",
-    "react-native-tesseract-ocr": "^1.0.10"
+    "react-native-tesseract-ocr": "^1.0.10",
+    "react-navigation": "^4.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.6.0",
